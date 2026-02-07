@@ -4,9 +4,6 @@
 
 ---
 
-## 🔗 Live Preview
-
-🌐 [Click here to view the live website](https://quick-blog-sncf.vercel.app/)
 
 ---
 
