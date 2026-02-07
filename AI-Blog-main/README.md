@@ -72,10 +72,6 @@
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/aditya-cse-21/quick_blog.git
-cd quick_blog
-```
 
 2. **Install server dependencies**
 
